@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Austin's Github Stats](https://github-readme-stats.vercel.app/api?username=Jellayy&theme=radical&show_icons=true&count_private=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Austin's Github Stats](https://github-readme-stats.vercel.app/api?username=Jellayy&theme=radical&show_icons=true&count_private=true&bg_color=0d1117&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jellayy&langs_count=8&theme=radical&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
