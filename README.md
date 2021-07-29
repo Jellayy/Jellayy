@@ -9,6 +9,11 @@
 - 📫 Reach me on my Linkedin
 - ⚡ Fun fact: I love to badly play the Trumpet and Piano
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [![Austin's Github Stats](https://github-readme-stats.vercel.app/api?username=Jellayy&theme=radical&show_icons=true&count_private=true&bg_color=0d1117&line_height=27&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jellayy&langs_count=8&theme=radical&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
