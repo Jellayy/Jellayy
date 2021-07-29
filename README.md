@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Austin 👋
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=down&label=jellayy.github.io&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fjellayy.github.io)](https://jellayy.github.io)
+
+## I'm a student studying Information Technology @ ASU!
 
 [![Austin's Github Stats](https://github-readme-stats.vercel.app/api?username=Jellayy&theme=radical&show_icons=true&count_private=true&bg_color=0d1117&line_height=27&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jellayy&langs_count=8&theme=radical&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
