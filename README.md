@@ -1,8 +1,13 @@
-### Hi there, I'm Austin 👋
-
 [![Website](https://img.shields.io/website?down_color=red&down_message=down&label=jellayy.github.io&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fjellayy.github.io)](https://jellayy.github.io)
 
+### Hi there, I'm Austin 👋
+
 ## I'm a student studying Information Technology @ ASU!
+
+- 🔭 I’m currently working on my Homelab
+- 🌱 I’m always learning new enterprise technologies
+- 📫 Reach me on my Linkedin
+- ⚡ Fun fact: I love to badly play the Trumpet and Piano
 
 [![Austin's Github Stats](https://github-readme-stats.vercel.app/api?username=Jellayy&theme=radical&show_icons=true&count_private=true&bg_color=0d1117&line_height=27&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jellayy&langs_count=8&theme=radical&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
