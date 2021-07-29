@@ -12,6 +12,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Working title - My Media Stack](/media-stack/)
+- [Deploying Python Code to Docker, the Easy Way](/Deploying-Python-To-Docker-The_Easy-Way/)
+- [pfSense, The Humble Beginning](/pfSense/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Austin's Github Stats](https://github-readme-stats.vercel.app/api?username=Jellayy&theme=radical&show_icons=true&count_private=true&bg_color=0d1117&line_height=27&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
