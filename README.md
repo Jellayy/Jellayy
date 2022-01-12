@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=jellayy.github.io&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fjellayy.github.io)](https://jellayy.github.io)
+[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=blog.alhuff.com&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fblog.alhuff.com)](https://blog.alhuff.com)
 
 ### Hi there, I'm Austin 👋
 
