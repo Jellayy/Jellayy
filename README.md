@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=blog.alhuff.com&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Falhuff.com)](https://alhuff.com)
+[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=alhuff.com&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Falhuff.com)](https://alhuff.com)
 [![Blog](https://img.shields.io/website?down_color=red&down_message=down&label=blog.alhuff.com&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fblog.alhuff.com)](https://blog.alhuff.com)
 
 ### Hi there, I'm Austin 👋
