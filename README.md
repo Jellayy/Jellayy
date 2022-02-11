@@ -18,9 +18,6 @@
 - [pfSense, The Humble Beginning](https://jellayy.github.io/pfSense/)
 <!-- BLOG-POST-LIST:END -->
 
-[![Austin's Github Stats](https://github-readme-stats.vercel.app/api?username=Jellayy&theme=radical&show_icons=true&count_private=true&bg_color=0d1117&line_height=27&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jellayy&langs_count=8&theme=radical&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Jellayy/Jellayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
