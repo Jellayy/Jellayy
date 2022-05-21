@@ -13,10 +13,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up Proxmox](https://jellayy.github.io/proxmox-setup/)
+- [pfSense Stats in Grafana](https://jellayy.github.io/grafana-pfsense/)
 - [Setting up Grafana - Simplified](https://jellayy.github.io/grafana/)
 - [Working title - My Media Stack](https://jellayy.github.io/media-stack/)
 - [Deploying Python Code to Docker, the Easy Way](https://jellayy.github.io/Deploying-Python-To-Docker-The_Easy-Way/)
-- [pfSense, The Humble Beginning](https://jellayy.github.io/pfSense/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
