@@ -1,5 +1,6 @@
-[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=alhuff.com&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Falhuff.com)](https://alhuff.com)
-[![Blog](https://img.shields.io/website?down_color=red&down_message=down&label=blog.alhuff.com&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fblog.alhuff.com)](https://blog.alhuff.com)
+[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=alhuff.com&up_color=green&up_message=up&url=https%3A%2F%2Falhuff.com)](https://alhuff.com)
+[![Blog](https://img.shields.io/website?down_color=red&down_message=down&label=blog.alhuff.com&up_color=green&up_message=up&url=https%3A%2F%2Fblog.alhuff.com)](https://blog.alhuff.com)
+[![Photos](https://img.shields.io/website?down_color=red&down_message=down&label=photos.alhuff.com&up_color=green&up_message=up&url=https%3A%2F%2Fblog.alhuff.com)](https://photos.alhuff.com)
 
 # Hey there! I'm Austin 👋
 Welcome to my GitHub page! <br>
