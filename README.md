@@ -1,14 +1,20 @@
 [![Website](https://img.shields.io/website?down_color=red&down_message=down&label=alhuff.com&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Falhuff.com)](https://alhuff.com)
 [![Blog](https://img.shields.io/website?down_color=red&down_message=down&label=blog.alhuff.com&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fblog.alhuff.com)](https://blog.alhuff.com)
 
-### Hi there, I'm Austin 👋
+# Hey there! I'm Austin 👋
+Welcome to my GitHub page! <br>
+I'm a senior undergrad studying IT and interning as a Software Engineer who loves cars and photography!
 
-## I'm a student studying Information Technology @ ASU!
+### 🖥️ What I'm Currently Working On
 
-- 🔭 I’m currently working on my Homelab
-- 🌱 I’m always learning new enterprise technologies
-- 📫 Reach me on my Linkedin
-- ⚡ Fun fact: I love to badly play the Trumpet and Piano
+| Project                                                           | Latest Version                                                                     | Build                                                                                                                          | Issues                                                                         | Pull Requests                                                                  | Stars                                                                        |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| [EZ.GG](https://github.com/Jellayy/ez.gg)                         | ![EZ.GG Version](https://img.shields.io/github/v/release/jellayy/ez.gg)            | ![EZ.GG Build](https://img.shields.io/github/workflow/status/jellayy/ez.gg/Package%20Application%20with%20Pyinstaller/master)  | ![EZ.GG Issues](https://img.shields.io/github/issues/Jellayy/ez.gg)            | ![EZ.GG PRs](https://img.shields.io/github/issues-pr/jellayy/ez.gg)            | ![EZ.GG Stars](https://img.shields.io/github/stars/Jellayy/ez.gg)            |
+| [Invitarr](https://github.com/Jellayy/Invitarr)                   | ![Invitarr Version](https://img.shields.io/github/v/release/jellayy/invitarr)      | ![Invitarr Build](https://img.shields.io/github/workflow/status/jellayy/invitarr/Build%20Docker%20images/master)               | ![Invitarr Issues](https://img.shields.io/github/issues/Jellayy/invitarr)      | ![Invitarr PRs](https://img.shields.io/github/issues-pr/jellayy/invitarr)      | ![Invitarr Stars](https://img.shields.io/github/stars/Jellayy/invitarr)      |
+| [blog.alhuff.com](https://github.com/Jellayy/jellayy.github.io)   | ![Blog Version](https://img.shields.io/github/v/release/jellayy/jellayy.github.io) | ![Blog Build](https://img.shields.io/github/workflow/status/jellayy/jellayy.github.io/pages%20build%20and%20deployment/master) | ![Blog Issues](https://img.shields.io/github/issues/Jellayy/jellayy.github.io) | ![Blog PRs](https://img.shields.io/github/issues-pr/jellayy/jellayy.github.io) | ![Blog Stars](https://img.shields.io/github/stars/Jellayy/jellayy.github.io) |
+| [photos.alhuff.com](https://github.com/Jellayy/photos.alhuff.com) | ![Pics Version](https://img.shields.io/github/v/release/jellayy/photos.alhuff.com) | ![Pics Build](https://img.shields.io/github/workflow/status/jellayy/photos.alhuff.com/pages%20build%20and%20deployment/master) | ![Pics Issues](https://img.shields.io/github/issues/Jellayy/photos.alhuff.com) | ![Pics PRs](https://img.shields.io/github/issues-pr/jellayy/photos.alhuff.com) | ![Pics Stars](https://img.shields.io/github/stars/Jellayy/photos.alhuff.com) |
+
+
 
 ### 📕 Latest Blog Posts
 
@@ -19,19 +25,3 @@
 - [Working title - My Media Stack](https://jellayy.github.io/media-stack/)
 - [Deploying Python Code to Docker, the Easy Way](https://jellayy.github.io/Deploying-Python-To-Docker-The_Easy-Way/)
 <!-- BLOG-POST-LIST:END -->
-
-<!--
-**Jellayy/Jellayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
