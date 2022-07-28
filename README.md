@@ -5,6 +5,11 @@
 Welcome to my GitHub page! <br>
 I'm a senior undergrad studying IT and interning as a Software Engineer who loves cars and photography!
 
+### 🌎 Connect With Me
+[![Website](/img/website.png)](https://alhuff.com)
+[![Linkedin](/img/linkedin.svg)](https://www.linkedin.com/in/austinlynnhuffman/)
+[![Instagram](/img/instagram.svg)](https://www.instagram.com/alhuff_)
+
 ### 🖥️ What I'm Currently Working On
 
 | Project                                                           | Latest Version                                                                     | Build                                                                                                                          | Issues                                                                         | Pull Requests                                                                  | Stars                                                                        |
