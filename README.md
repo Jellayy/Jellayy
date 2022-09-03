@@ -25,9 +25,9 @@ I'm a senior undergrad studying IT and interning as a Software Engineer who love
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Virtualized TrueNAS Guide](https://jellayy.github.io/ultimate-truenas-guide/)
 - [Setting Up Proxmox](https://jellayy.github.io/proxmox-setup/)
 - [pfSense Stats in Grafana](https://jellayy.github.io/grafana-pfsense/)
 - [Setting up Grafana - Simplified](https://jellayy.github.io/grafana/)
 - [Working title - My Media Stack](https://jellayy.github.io/media-stack/)
-- [Deploying Python Code to Docker, the Easy Way](https://jellayy.github.io/Deploying-Python-To-Docker-The_Easy-Way/)
 <!-- BLOG-POST-LIST:END -->
