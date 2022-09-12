@@ -25,9 +25,9 @@ I'm a senior undergrad studying IT and interning as a Software Engineer who love
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Virtualized TrueNAS Guide](https://jellayy.github.io/ultimate-truenas-guide/)
-- [Setting Up Proxmox](https://jellayy.github.io/proxmox-setup/)
-- [pfSense Stats in Grafana](https://jellayy.github.io/grafana-pfsense/)
-- [Setting up Grafana - Simplified](https://jellayy.github.io/grafana/)
-- [Working title - My Media Stack](https://jellayy.github.io/media-stack/)
+- [The Ultimate Virtualized TrueNAS Guide](https://blog.alhuff.com/guides/ultimate-truenas-guide/)
+- [Proxmox Setup Tips](https://blog.alhuff.com/guides/proxmox-setup/)
+- [pfSense Stats in Grafana](https://blog.alhuff.com/guides/grafana-pfsense/)
+- [Setting up Grafana - Simplified](https://blog.alhuff.com/guides/grafana-setup/)
+- [Helpful VM Commands](https://blog.alhuff.com/guides/helpful-vm-commands/)
 <!-- BLOG-POST-LIST:END -->
