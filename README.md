@@ -25,7 +25,7 @@ I'm a senior undergrad studying IT and interning as a Software Engineer who love
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WIP: Traefik](https://blog.alhuff.com/guides/traefik/)
+- [Traefik Reverse Proxy in Docker with TLS Certs](https://blog.alhuff.com/guides/traefik/)
 - [The Ultimate Virtualized TrueNAS Guide](https://blog.alhuff.com/guides/ultimate-truenas-guide/)
 - [Proxmox Setup Tips](https://blog.alhuff.com/guides/proxmox-setup/)
 - [pfSense Stats in Grafana](https://blog.alhuff.com/guides/grafana-pfsense/)
