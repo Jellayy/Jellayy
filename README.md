@@ -3,23 +3,20 @@
 
 # Hey there! I'm Austin 👋
 Welcome to my GitHub page! <br>
-I'm a senior undergrad studying IT and interning as a Software Engineer who loves cars and photography!
+I'm a Software Engineer specializing in DevOps who loves cars and photography!
 
 ### 🌎 Connect With Me
 [![Website](/img/website.png)](https://alhuff.com)
 [![Linkedin](/img/linkedin.svg)](https://www.linkedin.com/in/austinlynnhuffman/)
 [![Instagram](/img/instagram.svg)](https://www.instagram.com/alhuff_)
 
-### 🖥️ What I'm Currently Working On
+### 🖥️ My Recent Projects
 
-| Project                                                           | Latest Version                                                                     | Build                                                                                                                          | Issues                                                                         | Pull Requests                                                                  | Stars                                                                        |
-| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| [EZ.GG](https://github.com/Jellayy/ez.gg)                         | ![EZ.GG Version](https://img.shields.io/github/v/release/jellayy/ez.gg)            | ![EZ.GG Build](https://img.shields.io/github/workflow/status/jellayy/ez.gg/Package%20Application%20with%20Pyinstaller/master)  | ![EZ.GG Issues](https://img.shields.io/github/issues/Jellayy/ez.gg)            | ![EZ.GG PRs](https://img.shields.io/github/issues-pr/jellayy/ez.gg)            | ![EZ.GG Stars](https://img.shields.io/github/stars/Jellayy/ez.gg)            |
-| [Invitarr](https://github.com/Jellayy/Invitarr)                   | ![Invitarr Version](https://img.shields.io/github/v/release/jellayy/invitarr)      | ![Invitarr Build](https://img.shields.io/github/workflow/status/jellayy/invitarr/Build%20Docker%20images/master)               | ![Invitarr Issues](https://img.shields.io/github/issues/Jellayy/invitarr)      | ![Invitarr PRs](https://img.shields.io/github/issues-pr/jellayy/invitarr)      | ![Invitarr Stars](https://img.shields.io/github/stars/Jellayy/invitarr)      |
-| [blog.alhuff.com](https://github.com/Jellayy/jellayy.github.io)   | ![Blog Version](https://img.shields.io/github/v/release/jellayy/jellayy.github.io) | ![Blog Build](https://img.shields.io/github/workflow/status/jellayy/jellayy.github.io/pages%20build%20and%20deployment/master) | ![Blog Issues](https://img.shields.io/github/issues/Jellayy/jellayy.github.io) | ![Blog PRs](https://img.shields.io/github/issues-pr/jellayy/jellayy.github.io) | ![Blog Stars](https://img.shields.io/github/stars/Jellayy/jellayy.github.io) |
-| [photos.alhuff.com](https://github.com/Jellayy/photos.alhuff.com) | ![Pics Version](https://img.shields.io/github/v/release/jellayy/photos.alhuff.com) | ![Pics Build](https://img.shields.io/github/workflow/status/jellayy/photos.alhuff.com/pages%20build%20and%20deployment/master) | ![Pics Issues](https://img.shields.io/github/issues/Jellayy/photos.alhuff.com) | ![Pics PRs](https://img.shields.io/github/issues-pr/jellayy/photos.alhuff.com) | ![Pics Stars](https://img.shields.io/github/stars/Jellayy/photos.alhuff.com) |
-
-
+| Project                                         | Latest Version                                                                | Build                                                                                                       | Issues                                                                    | Pull Requests                                                             | Stars                                                                   |
+| ----------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [wordler](https://gituhb.com/Jellayy/wordler)   | ![wordler Version](https://img.shields.io/github/v/release/jellayy/wordler)   | ![wordler Build](https://img.shields.io/github/actions/workflow/status/jellayy/wordler/release.yml)         | ![wordler Issues](https://img.shields.io/github/issues/Jellayy/wordler)   | ![wordler PRs](https://img.shields.io/github/issues-pr/jellayy/wordler)   | ![wordler Stars](https://img.shields.io/github/stars/Jellayy/wordler)   |
+| [Invitarr](https://github.com/Jellayy/Invitarr) | ![Invitarr Version](https://img.shields.io/github/v/release/jellayy/invitarr) | ![Invitarr Build](https://img.shields.io/github/actions/workflow/status/jellayy/invitarr/dockerhub.yml)     | ![Invitarr Issues](https://img.shields.io/github/issues/Jellayy/invitarr) | ![Invitarr PRs](https://img.shields.io/github/issues-pr/jellayy/invitarr) | ![Invitarr Stars](https://img.shields.io/github/stars/Jellayy/invitarr) |
+| [EZ.GG](https://github.com/Jellayy/ez.gg)       | ![EZ.GG Version](https://img.shields.io/github/v/release/jellayy/ez.gg)       | ![EZ.GG Build](https://img.shields.io/github/actions/workflow/status/jellayy/ez.gg/pyinstaller-windows.yml) | ![EZ.GG Issues](https://img.shields.io/github/issues/Jellayy/ez.gg)       | ![EZ.GG PRs](https://img.shields.io/github/issues-pr/jellayy/ez.gg)       | ![EZ.GG Stars](https://img.shields.io/github/stars/Jellayy/ez.gg)       |
 
 ### 📕 Latest Blog Posts
 
