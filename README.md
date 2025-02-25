@@ -23,9 +23,9 @@ I'm a Software Engineer specializing in DevOps who loves cars and photography!
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Traefik Reverse Proxy in Docker with TLS Certs](https://blog.alhuff.com/guides/traefik/)
-- [The Ultimate Virtualized TrueNAS Guide](https://blog.alhuff.com/guides/ultimate-truenas-guide/)
-- [Proxmox Setup Tips](https://blog.alhuff.com/guides/proxmox-setup/)
-- [pfSense Stats in Grafana](https://blog.alhuff.com/guides/grafana-pfsense/)
-- [Setting up Grafana - Simplified](https://blog.alhuff.com/guides/grafana-setup/)
+- [Homelab V3 - Low Power Edition](http://alhuff.com/blog/2024-10-15-homelabv3/)
+- [Traefik Reverse Proxy in Docker with TLS Certs](http://alhuff.com/blog/2022-09-25-traefik/)
+- [Virtualizing TrueNAS in Proxmox](http://alhuff.com/blog/2022-09-02-virttruenascore/)
+- [Proxmox Setup Tips](http://alhuff.com/blog/2022-02-15-proxmoxsetup/)
+- [Helpful Linux Commands](http://alhuff.com/blog/2021-03-09-linuxcommands/)
 <!-- BLOG-POST-LIST:END -->
