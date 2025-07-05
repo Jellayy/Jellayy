@@ -1,6 +1,6 @@
 [![Blog](https://img.shields.io/website?down_color=red&down_message=down&label=alhuff.com&up_color=green&up_message=up&url=https%3A%2F%2Falhuff.com)](https://alhuff.com)
 
-# Hey there! I'm Austin 👋
+## Hey there! I'm Austin 👋
 I'm a Software Engineer specializing in DevOps who loves cars and photography!
 
 ### 📕 Latest Blog Posts
